@@ -1,0 +1,55 @@
+.rouge-gras{
+    color : red;
+    font-weight: bold;
+}
+
+.bleu-weight{
+    color: blue;
+    font-weight: 200;
+}
+
+.weight{
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.souligner{
+    text-decoration: underline;
+}
+
+.police{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fond{
+
+}
+
+.boite{
+    border: rgb(240, 255, 80) 1px solid; 
+    height: 65px;
+    width: 65px;
+    
+    color: rgb(126, 8, 139);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50%;
+    }
+
+.chienloup{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/1b/Black_Canis_lupus.jpg);
+
+}
+
+.capibara{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/50/Familiepark_Harry_Malter_-_Capibara_-_13-07-2010_11-15-57.JPG);
+}
+
+.guepard{
+    background-image: url(https://medias.pourlascience.fr/api/v1/images/view/60f8513f3e45467a9733cd96/wide_1000-webp/image.jpg);
+}
+
+.ours{
+    background-image: url(https://bearwatchingslovenia.com/wp-content/uploads/brown-bear-slovenia-1.webp);
+}
